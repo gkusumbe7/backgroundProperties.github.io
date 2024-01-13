@@ -47,32 +47,27 @@ div.main-2{
     /* background-color: aqua; */
 }
 
+
 div.img1{
-    background-size: cover;
     background-image: url("https://static7.depositphotos.com/1010826/675/v/450/depositphotos_6751521-stock-illustration-tower-cranes.jpg");
-    height: 450px;
-    width: 100%;
-    background-repeat: no-repeat;
-    margin: 5px;
 }
 
 div.img2{
-    background-size: cover;
     background-image: url("https://wallpapers.com/images/featured/civil-engineering-pa6hvqgpaqfw6mgb.jpg");
+}
+
+div.img3{
+    background-image: url("https://c1.wallpaperflare.com/preview/734/797/226/construction-site-building-concrete.jpg");
+}
+
+div.main-2-img{
+    background-size: cover;
     height: 450px;
     width: 100%;
     background-repeat: no-repeat;
     margin: 5px;
 }
 
-div.img3{
-    background-size: cover;
-    background-image: url("https://c1.wallpaperflare.com/preview/734/797/226/construction-site-building-concrete.jpg");
-    height: 450px;
-    width: 100%;
-    background-repeat: no-repeat;
-    margin: 5px;
-}
 
 div.footer{
     display: flex;
